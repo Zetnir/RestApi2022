@@ -1,0 +1,1001 @@
+id,first_name,last_name
+1,Todd,1
+2,Les,"12 Poissons"
+3,Lejaren,a'Hiller
+4,Nian,A
+5,Khairiya,A-Mansour
+6,Ricardo,"A. Solla"
+8,"Kodanda Rami Reddy",A.
+9,"Nageswara Rao",A.
+10,Yuri,A.
+11,Swamy,A.S.A.
+12,"Per (I)",Aabel
+13,Eivind,Aaeng
+14,Mang,Aag
+15,Sigfred,Aagaard
+16,Michael,Aaglund
+17,Safdar,Aah
+18,Astrid,Aakra
+19,"Mohamad Reza",Aalami
+20,Jefri,Aalmuhammed
+21,Rostislav,Aalto
+22,Veikko,Aaltonen
+23,Pål,Aam
+25,Willie,Aames
+26,Douglas,Aarniokoski
+27,Hallie,Aaron
+28,Jane,Aaron
+29,"Joe (II)",Aaron
+31,Paul,Aaron
+32,Evan,Aaronson
+33,Reuben,Aaronson
+34,Heikki,Aarva
+35,Olav,Aasmundtveit
+36,Lauri,Aaspõllu
+37,Jamel,Aattache
+38,Eduardo,Abad
+39,Francisco,Abad
+40,Jorge,Abad
+41,Toni,Abad
+42,Baltasar,Abadal
+43,Regine,Abadia
+44,A.C.,Abadie
+45,Hector,Abadie
+46,Emil,Abadzhiev
+47,David,Abajo
+48,Askhab,Abakarov
+49,Ezequiel,Abalos
+50,Ruben,Abalos
+51,Eduard,Abalov
+52,Paul,Abascal
+53,Devi,Abashidze
+54,Dodo,Abashidze
+55,Leila,Abashidze
+56,Bobby,Abate
+57,Tony,Abatemarco
+58,Hiyam,Abbas
+59,"Khwaja Ahmad",Abbas
+60,Munshi,Abbas
+61,S.M.,Abbas
+62,Shukhrat,Abbasov
+63,Fariborz,Abbassi
+64,Lisa,Abbatiello
+65,Mohamed,Abbazi
+66,"Jack Yutaka",Abbe
+67,"James E.",Abbe
+68,Malcolm,Abbey
+69,Francesco,Abbondati
+70,"Abdul Malik",Abbott
+71,Andrew,Abbott
+72,"Charles (I)",Abbott
+73,"David (VIII)",Abbott
+74,Deborah,Abbott
+75,George,Abbott
+76,"Jennifer (I)",Abbott
+78,Lee,Abbott
+79,Louise,Abbott
+80,Luke,Abbott
+81,"Norman (II)",Abbott
+82,Philip,Abbott
+83,Sarah,Abbott
+84,"Simon Dare",Abbott
+85,Wayne,Abbott
+86,Olivier,Abbou
+87,Alberto,Abdala
+88,"Samir (II)",Abdallah
+89,Mohamed,"Abdel Aziz"
+90,Mohamed,"Abdel Gawad"
+91,Chadi,"Abdel Salam"
+92,Daoud,"Abdel Sayed"
+93,Fatin,"Abdel Wahab"
+94,Hamada,"Abdel Wahab"
+95,Hassan,"Abdel Wahab"
+96,Zaki,"Abdel Wahab"
+97,Ali,Abdel-Khalek
+98,Ameed,Abdelhafiz
+99,Abdellatif,Abdelhamid
+100,Adisoerya,Abdi
+101,Reza,Abdi
+102,Nick,Abdo
+103,Mohsen,Abdolvahab
+104,Vadim,Abdrashitov
+105,Lono,"Abdul Hamid"
+107,Aminah,Abdul-Jabbaar
+108,Bairam,Abdullayev
+109,Davron,Abdullayev
+110,Ernest,Abdyjaparov
+111,Aktan,Abdykalykov
+112,"Frank (II)",Abe
+113,Hisashi,Abe
+114,Kino,Abe
+115,Masamichi,Abe
+116,Masashi,Abe
+117,Nobito,Abe
+118,Noriyuki,Abe
+119,Takashi,Abe
+120,Teruo,Abe
+121,Tsotumo,Abe
+122,Yutaka,Abe
+123,Eliette,Abecassis
+124,Ramzi,Abed
+125,"Mohammad Reza",Abedi
+126,"James Brih",Abee
+127,Alan,Abel
+128,Alfred,Abel
+129,"Dominique (I)",Abel
+130,Jeanne,Abel
+131,"Robert (I)",Abel
+132,Roysten,Abel
+133,"Rudolph E.",Abel
+134,Susanne,Abel
+135,Gay,Abel-Bey
+136,Alexander,Abela
+137,Angelo,Abela
+138,Gert,Abelbeck
+139,Azinhal,Abelho
+140,"Cesar S.B.",Abella
+141,"Rafael Jorge",Abella
+142,Bror,Abelli
+143,Antonio,Abellán
+144,Lisa,"Abelow Hedley"
+145,Jeffrey,Abelson
+146,Claudia,Abend
+147,Julie,Aberdein
+148,Douglas,Aberle
+149,Don,Abernathy
+150,Lewis,Abernathy
+151,Otar,Abesadze
+152,Dennis,Abey
+153,Shathi,Abeysekara
+154,Tissa,Abeysekera
+155,César,Abeytua
+156,Denzil,Abeywardane
+157,Serge,Abi-Yaghi
+158,Aly,Abidy
+159,"Robert B.",Abihay
+160,Pascal,Abikanlou
+161,Jytte,Abildstrøm
+162,Milton,Abirached
+163,Shachar,Abiri
+164,Judith,Abitbol
+165,"Jesús B.",Abitia
+166,Julian,Abitia
+167,Dragan,Abjaninich
+168,Daniela,Abke
+169,Brad,Ableson
+170,Vyacheslav,Ablotia
+171,Boshra,Abo-Saif
+172,Susan,Abod
+173,"João Abel",Aboim
+174,Yossi,Abolafia
+175,Kevin,Abosch
+176,Soledad,"Abot Glenz"
+177,Mohamed,Abou-Seif
+178,Gaston,Abougit
+179,Roni,Aboulafia
+180,Marcel,Aboulker
+181,Salah,Abouseif
+182,François,About
+183,Tony,Aboyantz
+184,"Temesghen Zehaie",Abraha
+185,Adam,Abraham
+186,Chris,Abraham
+187,"David (II)",Abraham
+188,"John (I)",Abraham
+189,Maurice,Abraham
+190,Morris,Abraham
+191,"Peggy Jo",Abraham
+192,Hernán,Abrahamnsohn
+193,Derwin,Abrahams
+194,Jim,Abrahams
+195,Christer,Abrahamsen
+196,Svend,Abrahamsen
+197,Lenny,Abrahamson
+198,Leonard,Abrahamson
+199,Khoren,Abrahamyan
+200,Christopher,Abram
+201,Luigi,Abramo
+202,"A. (I)",Abramov
+203,Aleksandr,Abramov
+204,Yefim,Abramov
+205,Liza,Abramovic
+206,Velimir,Abramovic
+207,Veljko,Abramovic
+208,Virginia,Abramovich
+209,Amarante,Abramovici
+210,Myriam,Abramowicz
+211,Abiola,Abrams
+212,Anthony,Abrams
+213,J.J.,Abrams
+214,Jerry,Abrams
+215,Leon,Abrams
+216,Tom,Abrams
+217,"David (II)",Abramson
+218,Hans,Abramson
+219,Ivan,Abramson
+220,Neil,Abramson
+221,"Richard Gilbert",Abramson
+222,Aluisio,Abranches
+223,Bebeto,Abrantes
+224,Alê,Abreu
+225,"Carlos Alberto",Abreu
+226,"Gilda de",Abreu
+227,Herval,Abreu
+228,José,Abreu
+229,"José Eduardo",Abreu
+230,Letícia,Abreu
+231,Rogerio,Abreu
+232,Josef,"Abrhám Jr."
+233,Albert,Abril
+234,Levi,Abrino
+235,"Edward M.",Abroms
+236,Alberto,Abruzzese
+237,Daniel,Absil
+238,Emily,Abt
+239,Michael,Abt
+240,Magdy,"Abu Emeira"
+241,Hussein,"Abu Hassan"
+242,Hashim,"Abu Iraq"
+243,Tawfik,"Abu Wael"
+244,Kamla,"Abu Zekry"
+245,A.T.,Abu
+246,Hany,Abu-Assad
+247,Jeff,Abugov
+248,Antonio,Abujamra
+249,Samir,Abujamra
+250,Petras,Abukiavicus
+251,Tengiz,Abuladze
+252,Gonzalo,Aburto
+253,Franco,Abussi
+254,Eitan,Abut
+255,Alon,Abutbul
+256,Melis,Abzalov
+257,Ismail,Acar
+258,Kadriye,Acar
+259,Félix,Acaso
+260,Giuseppe,Accatino
+262,Fulvio,Accialini
+263,Angel,Acciaresi
+264,Claude,Accursi
+265,Alfonso,Acebal
+266,Giselle,Aceremo
+267,Joe,Aceti
+268,Gonzalo,"Acevedo Bernal"
+269,Álvaro,"Acevedo Bernal"
+270,Antonio,"Acevedo Hernández"
+271,Arturo,"Acevedo Vallarino"
+272,"Antonio (I)",Acevedo
+273,David,Acevedo
+274,Jorge,Acevedo
+275,"Juan Ignacio",Acevedo
+276,Jon,Acevski
+277,Wendy,Acey
+278,Jorge,Acha
+279,"Juan Carlos",Acha
+280,Jean,Achache
+281,Laurent,Achard
+282,"Marcel (I)",Achard
+283,N.R.,Acharya
+284,"Resh Raj",Acharya
+285,"Carl Ludwig",Achaz-Duisberg
+286,Mark,Achbar
+287,Claude,Ache
+288,Stuart,Acher
+289,Louisa,Achille
+290,David,Achkar
+291,Zackie,Achmat
+292,"Nan Triveni",Achnas
+293,Daniel,Acht
+294,David,Achtar
+295,Dirk,Achten
+296,Irma,Achten
+297,Herbert,Achternbusch
+298,Michael,Achtman
+299,Walter,Achuga
+300,Dejan,Acimovic
+301,Dragoljub,Acimovic
+302,Karpo,Acimovic-Godina
+303,Andrej,Acin
+304,Jovan,Acin
+305,Omar,Ackbar
+306,Ricky,Acker
+307,Shane,Acker
+308,"Andy (I)",Ackerman
+309,"C. Fred",Ackerman
+310,"David (I)",Ackerman
+311,Ed,Ackerman
+312,"Kevin (I)",Ackerman
+313,"Robert Allan",Ackerman
+314,Rainer,Ackermann
+315,Rodney,Ackland
+316,Jill,Ackles
+317,Claudia,Acklin
+318,Barry,Ackroyd
+319,Yevgeni,Acksenov
+320,A.W.,Acland
+321,David,Acomba
+322,Rodrigo,"Acosta Arreguin"
+323,Damián,"Acosta Esparza"
+324,José,"Acosta Nava"
+325,"José Luis","Acosta Salmerón"
+326,"Armando (II)",Acosta
+327,Coco,Acosta
+328,Danny,Acosta
+329,"Eduardo 'Coco'",Acosta
+330,"Enrique (II)",Acosta
+331,Ivan,Acosta
+332,Javier,Acosta
+333,Jorge,Acosta
+334,"José (I)",Acosta
+335,"José Luis",Acosta
+336,Magdalena,Acosta
+337,Rodrigo,Acosta
+338,Xuan,Acosta
+339,Luigi,Acquisto
+340,Birt,Acres
+341,Fabienne,Acs
+342,Cecilia,Actis
+343,Federico,Actis
+344,Jonty,Acton
+345,Brandon,Acton-Bond
+346,"Nya' Abbas",Acub
+347,Pamela,"Acuña Céspedes"
+348,Jesús,"Acuña Lee"
+349,Ezequiel,Acuña
+350,Nicolás,Acuña
+351,Óscar,Acúrcio
+352,Jack,Ad'Din
+353,Aleksandr,Adabashyan
+354,"Masao (I)",Adachi
+355,Shinsei,Adachi
+356,Chris,Adair
+357,Dustin,Adair
+358,Dwight,Adair
+359,"Peter (I)",Adair
+360,"Peter (II)",Adair
+361,Homi,Adajania
+363,Camil,Adam
+364,Helmi,Adam
+365,Jean-François,Adam
+367,"Peter (I)",Adam
+368,Raphal,Adam
+369,Raymond,Adam
+370,Wojciech,Adamczyk
+371,Jiøí,Adamec
+372,Maciej,Adamek
+373,Witold,Adamek
+374,George,Adamescu
+375,Giuseppe,Adami
+376,Thomas,Adamicka
+377,Kasia,Adamik
+378,Laco,Adamik
+379,Marios,Adamis
+380,Troy,Adamitis
+382,Michael,Adamo
+383,Salvatore,Adamo
+384,Thodoros,Adamopoulos
+385,Galina,Adamovich
+386,Anthony,Adams
+387,Ash,Adams
+388,Basil,Adams
+390,"Carl W.",Adams
+391,Cary,Adams
+392,Catlin,Adams
+393,"Daniel (I)",Adams
+394,"Dave (V)",Adams
+395,"David (XIII)",Adams
+396,"Don (I)",Adams
+397,"Don (II)",Adams
+398,"Doug (I)",Adams
+399,Douglas,Adams
+400,Ellen,Adams
+402,"Joe (III)",Adams
+403,"Jon (I)",Adams
+404,"Justin (IV)",Adams
+405,"Ken (I)",Adams
+406,"Lew V.",Adams
+407,Luis,Adams
+408,"M. Clay",Adams
+409,Marcus,Adams
+410,"Mark (VII)",Adams
+411,Maud,Adams
+412,"Michael (V)",Adams
+416,"Mike (V)",Adams
+417,Neil,Adams
+418,"Oriel Lester",Adams
+419,Phillip,Adams
+420,R.J.,Adams
+421,"Robert S.",Adams
+422,"Sainte Jose",Adams
+423,"Steven (I)",Adams
+425,Wendall,Adams
+426,Woquini,Adams
+427,Zac,Adams
+428,Al,Adamson
+429,Andrew,Adamson
+430,"Frank (I)",Adamson
+431,"Jim (II)",Adamson
+432,Joseph,Adamson
+433,Mark,Adamson
+434,Reginald,Adamson
+435,Victor,Adamson
+437,Pascal,Adant
+438,Michael,Adante
+439,Rafi,Adar
+440,B.K.,Adarsh
+441,Anton,Adasinsky
+442,Mark,Adcock
+443,W.,Adcook
+444,Karim,Adda
+445,"Narayana Rao",Addala
+446,Lisa,Addario
+447,Mark,Adderley
+448,"A. Charles",Addessi
+449,"Charles A.",Addessi
+450,Milo,Addica
+451,Michael,Addis
+452,"Anita W.",Addison
+453,Ray,Addison
+454,Jus,Addiss
+455,George,Ade
+456,Maren,Ade
+457,Andrew,Adeane
+458,Ade,Adebegba
+459,"Moses Olaya",Adejumo
+460,Antony,Adel
+461,"Charles (I)",Adelman
+462,"Joseph (I)",Adelman
+463,Larry,Adelman
+464,Alan,Adelson
+465,Gary,Adelson
+466,"Steven A.",Adelson
+467,Jon,Adelsten
+468,Wale,Adenuga
+469,Bayo,Aderohunmu
+470,Lisa,Ades
+471,Richard,Ades
+472,Alfons,Adetuyi
+473,Robert,Adetuyi
+474,Akash,Adhikari
+475,Gautam,Adhikari
+477,Adel,Adib
+478,Pierre,Adidge
+479,Vishwamitter,Adil
+480,Ugo,Adilardi
+481,Nobu,Adilman
+482,Anil,Adithyan
+483,K.S.,Adiyaman
+484,Jayan,Adiyatt
+485,Marc,Adjadj
+486,Egbert,Adjesu
+487,David,Adkin
+488,Terry,Adlam
+489,"André José",Adler
+490,Carine,Adler
+491,"Charles (I)",Adler
+492,Duane,Adler
+493,Gilbert,Adler
+494,Helmer,Adler
+495,"Janet (I)",Adler
+496,"Jerry (II)",Adler
+497,Joseph,Adler
+498,Keith,Adler
+499,Lou,Adler
+500,"Marc F.",Adler
+501,Nati,Adler
+502,Oran,Adler
+503,"William F.",Adler
+504,Zackary,Adler
+505,Natti,Adlers
+506,"Horst Manfred",Adloff
+507,"Felix O.",Adlon
+508,Percy,Adlon
+509,Ed,Adlum
+510,Nikhil,Adnani
+511,David,Adnopaz
+512,"John G.",Adolfi
+513,Inga,Adolfsson
+514,Jörg,Adolph
+515,Edvin,Adolphson
+516,Nijole,Adomenaite
+517,Troy,Adomitis
+518,Frank,Adonis
+519,Kala,Adoor
+520,Franklin,Adreon
+521,Lorenzo,Adria
+522,Jeannice,Adriaansens
+523,Marc,Adrian
+524,"Michael (I)",Adrian
+525,Beatriz,Adriana
+526,Stuart,Adriance
+527,Ariane,Adriani
+528,Carlos,Adriano
+529,Francisco,Adrianzén
+530,Andrea,Adriatico
+531,Gilles,Adrien
+532,"Paulo Mauricio",Adrião
+533,Chris,Adshead
+534,Jab,Adu
+535,"Newton I.",Aduaka
+536,"Jagatrai Pesumal",Advani
+537,Kailesh,Advani
+538,Nikhil,Advani
+539,Aleksandar,Adzic
+540,Vladimír,Adásek
+541,Dan,Aeberhard
+542,Saiphin,Aeberli
+543,Simon,Aeby
+544,Werner,Aellen
+545,William,Aerts
+546,John,Aes-Nihil
+547,Emyr,Afan
+548,Jerzy,Afanasjew
+549,Sergei,Afanasyev
+550,Yuri,Afanasyev
+551,Ben,Affleck
+552,Neil,Affleck
+553,Jason,Affolder
+554,Behruz,Afkhami
+555,Henry,Aflecht
+556,Kleber,Afonso
+557,Alan,Afriat
+558,Vjekoslav,Afric
+559,Ahmad,Afsaneh
+560,Musa,Afshar
+561,Richard,Afton
+562,Mahnaz,Afzali
+563,Mukhtar,Aga-Mirzayev
+564,Arnold,Agababov
+565,Edmond,Agabra
+566,Baruch,Agadati
+567,Nina,Agadzhanova
+569,Laurie,Agard
+570,K.C.,Agarwal
+571,Sharan,Agarwal
+572,"Shyam Sundar",Agarwal
+573,Jyotiprasad,Agarwala
+574,Morio,Agata
+575,Georgis,Agathonikiadis
+576,Mikael,Agaton
+577,Paolo,Agazzi
+578,Joey,Agbayani
+579,Leo,Age
+580,Steve,Agee
+581,Kiriakos,Agelakos
+582,Stella,Aggelaki
+583,Gay,Aggeli
+584,Antonis,Aggelopoulos
+585,Anders,Agger
+586,Jalal,Agha
+587,S.M.,Agha
+588,"Shah G.",Agha
+589,Armaees,Aghamaliyan
+590,Hekmat,Aghanikyan
+591,Anne,Aghion
+592,Gabriel,Aghion
+593,Arend,Aghte
+594,Nick,Agiashvili
+595,Yasha,Aginsky
+596,Aleksandr,Agishev
+597,Phil,Agland
+598,Steve,Agland
+599,Giorgio,Agliani
+600,Antonello,Aglioti
+601,Sigurd,Agnell
+602,Alice,Agneskirchner
+603,Gary,Agnew
+604,Joss,Agnew
+605,Mike,Agnew
+606,Atul,Agnihotri
+607,Sunil,Agnihotri
+608,Jean-Michel,Agnoux
+609,Knut,Agnred
+610,Ignazio,Agosta
+611,Silvano,Agosti
+612,Philippe,Agostini
+613,David,Agosto
+614,Juliana,Agosto
+615,Frank,Agrama
+616,N.B.,Agrami
+617,Zakhar,Agranenko
+618,Leonid,Agranovich
+619,Mikhail,Agranovich
+620,Manoj,Agrawal
+621,Alejandro,Agresti
+622,Steen,Agro
+623,Manuel,Aguado
+624,Victorio,Aguado
+625,Luizi,Agudelo
+626,Diego,Agudo
+627,Xavier,Agudo
+628,Blanca,Aguerra
+629,Roberto,Aguerre
+630,"Carlos (II)",Aguiar
+631,Sindoval,Aguiar
+632,Carlos,"Aguilar Navarro"
+633,Antonio,"Aguilar Vicente"
+634,Fernando,"Aguilar Vásquez"
+635,"Claudia Eliza",Aguilar
+636,"Eduardo (I)",Aguilar
+637,"Eduardo (II)",Aguilar
+638,"Enrique (II)",Aguilar
+639,Ernesto,Aguilar
+640,Fabrizio,Aguilar
+641,Gustavo,Aguilar
+642,Hernan,Aguilar
+643,"José Luis (II)",Aguilar
+644,"Juan C.",Aguilar
+645,"Martin L.",Aguilar
+646,Paco,Aguilar
+647,"Paulina (II)",Aguilar
+648,Rolando,Aguilar
+649,Roser,Aguilar
+650,Sandra,Aguilar
+651,"Sandra Luz",Aguilar
+652,Sandro,Aguilar
+653,"Santiago (I)",Aguilar
+654,Félix,Aguilera
+655,Jorge,Aguilera
+656,Rómulo,Aguillaume
+657,Amable,Aguiluz
+658,Francisco,Aguiló
+659,Michael,Aguiló
+660,Luis,"Aguirre H."
+661,Alberto,Aguirre
+662,"Daniel (II)",Aguirre
+663,Esteban,Aguirre
+664,"Fernando (II)",Aguirre
+665,"Héctor Fabio",Aguirre
+666,"Ignacio (II)",Aguirre
+667,"Javier (I)",Aguirre
+668,Jeffery,Aguirre
+669,"John P.",Aguirre
+670,"Jonathan C.",Aguirre
+671,"Jorge (I)",Aguirre
+672,Monti,Aguirre
+673,Rubén,Aguirre
+674,Salvador,Aguirre
+675,Mikel,Aguirresarobe
+676,Mario,Aguiñaga
+677,Mónica,Agulló
+678,Andrés,Agustí
+679,José,Agustín
+680,Martín,Aguyé
+681,Yuldash,Agzamov
+682,Ignacio,Agüero
+683,"Luis Eduardo",Agüero
+684,Lawrence,"Ah Mon"
+685,Lun,Ah
+686,Morteza,Ahadi
+687,Shunit,Aharoni
+688,P.,Ahathiay
+689,Charlie,Ahearn
+690,David,Ahearn
+691,Joe,Ahearne
+692,Neal,"Ahern Jr."
+693,Caroline,Aherne
+694,Hori,Ahipene
+696,Todd,Ahlberg
+697,Ulf,Ahlberg
+698,Joey,Ahlbum
+699,Ansgar,Ahlers
+700,Sorrel,Ahlfeld
+701,Lars,Ahlin
+702,Kerstin,Ahlrichs
+703,Arvo,Ahlroos
+704,Herman,Ahlsell
+705,Börje,Ahlstedt
+706,Ashim,Ahluwalia
+707,H.,Ahluwalia
+708,Sukhdev,Ahluwalia
+709,"Khalid (I)",Ahmad
+710,Yasmin,Ahmad
+711,Manoucher,Ahmadi
+712,Mohamad,Ahmadi
+713,Safoura,Ahmadi
+714,Babar,Ahmed
+715,Fareed,Ahmed
+716,Faruque,Ahmed
+717,Humayun,Ahmed
+718,Kamal,Ahmed
+719,"Kanwar Aftab",Ahmed
+720,Mohsen,Ahmed
+721,Mukhtar,Ahmed
+722,Saghir,Ahmed
+723,Sultan,Ahmed
+724,"Tanvir (II)",Ahmed
+725,"Wahid-ud-din Zia-ud-din",Ahmed
+726,Adi,"Ahmet Imamovic"
+727,Byeong-ki,Ahn
+728,Dal-ho,Ahn
+729,Hyeon-cheol,Ahn
+730,Jin-woo,Ahn
+731,Kwon-tae,Ahn
+732,Phillip,Ahn
+733,Seung-ho,Ahn
+734,"Tae-geun (II)",Ahn
+735,Michael,Ahnemann
+736,Dirk,Ahner
+737,Heikki,Aho
+738,Mike,Aho
+739,Heikki,Ahola
+740,Aline,Ahond
+741,Michalis,Ahouriotis
+742,Chad,Ahrendt
+743,Marcel,Ahrens
+744,Elof,Ahrle
+745,Marianne,Ahrne
+746,Eija-Liisa,Ahtila
+747,Ashok,Ahuja
+748,Ramesh,Ahuja
+749,Peggy,Ahwesh
+750,Shui,Ai
+751,Óscar,Aibar
+752,Ricardo,Aibéo
+753,Andreas,Aichmayr
+754,Youssouff,Aidaby
+755,Athena,Aidini
+756,Katie,Aidley
+757,Danny,"Aiello III"
+758,Dennis,Aig
+759,Thomas,Aigelsreiter
+760,Shafi,Aijaz
+761,Chris,Aikenhead
+762,Susana,Aikin
+763,Anthony,Aikman
+764,Geert,Aillet
+765,Michael,Ailwood
+766,David,Aimedieu
+767,Michael,Aimette
+768,Shirikiana,Aina
+769,David,Ainley
+770,Satoru,Ainoda
+771,Karim,Ainouz
+772,Damián,Ainstein
+773,Andrew,Ainsworth
+774,"John (I)",Ainsworth
+775,Scott,Ainsworth
+776,Sergej,Ainutdinov
+777,Luis,Aira
+778,Boris,Airapetyan
+779,Belinda,Aird
+780,Jeremy,Airey
+781,Anto,Airlangga
+782,Henri,Aisner
+783,Andrew,Aitken
+784,"Doug (II)",Aitken
+785,Sally,Aitken
+786,Simon,Aitken
+787,Mary,Aitkin
+788,Rob,Aitro
+789,Amanzhol,Aituarov
+790,"Alain d'",Aix
+791,Mark,Aizenberg
+792,Óscar,Aizpeolea
+794,Alexandre,Aja
+795,Jamika,Ajalon
+796,"Jocelyn M.",Ajami
+797,Midhat,Ajanovic
+798,K.,Ajayakumar
+799,Milorad,Ajdic
+800,"Manuel R.",Ajenjo
+801,Shaken,Ajmanov
+802,Nazir,Ajmeri
+803,Farouk,Ajrama
+804,Farough,Ajrame
+805,Edina,Ajrulovski
+806,"Miguel Ángel",Ajuria
+807,Kom,Akadaet
+808,Steve,Akahoshi
+809,Alev,Akakar
+810,JoAnne,Akalaitis
+811,H.,Akamatsu
+812,Masakazu,Akan
+813,Kazuki,Akane
+814,Serdar,Akar
+815,Farough,Akarame
+816,Akarapol,Akarasaranee
+817,Pisan,Akaraseni
+818,Atilla,Akarsu
+819,Makaharu,Akasa
+820,Chogi,Akasaka
+821,Koreyoshi,Akasaka
+822,Nagayoshi,Akasaka
+823,Lutfu,Akat
+824,Ezel,Akay
+825,Ali,"Akbar Sadeghi"
+826,Ali,Akbar
+827,S.A.,Akbar
+828,Aydemir,Akbas
+829,Hicri,Akbasli
+830,Veli,Akbasli
+831,Jacques,Akchoti
+832,Vedat,Akdikmen
+833,Masayuki,Akehi
+834,Kevin,Akehurst
+835,Masayuki,Akemi
+836,Chantal,Akerman
+837,Steve,Akerman
+838,"Michael D.",Akers
+839,Valeri,Akhadov
+840,Farhan,Akhtar
+841,Khalid,Akhtar
+842,N.E.,Akhtar
+843,Zoya,Akhtar
+844,Sara,Akhteh
+845,Nino,Akhvlediani
+846,Keizo,Aki
+847,Masayuki,Akihiro
+848,Ali,Akika
+849,Salim,Akil
+850,Kiyoaki,Akimoto
+851,"Yasushi (I)",Akimoto
+852,Nikolay,Akimov
+853,Fatih,Akin
+854,"Mohamed Lamine",Akin
+855,Tancan,Akin
+856,Sam,Akina
+857,Bülent,Akinci
+858,Nuri,Akinci
+859,David,Akins
+860,Omonike,Akinyemi
+861,Stanley,Akira
+862,Katsuhito,Akiyama
+863,Mitchell,Akiyama
+864,Tomo,Akiyama
+865,Yutaka,Akiyama
+866,Malek,Akkad
+867,"Malek Stephen",Akkad
+868,Moustapha,Akkad
+869,Sinan,Akkus
+870,Samer,Akl
+871,"Nicky Arezu",Akmal
+872,Jim,Akman
+873,Nisan,Akman
+874,Arzu,Akmansoy
+875,Tekin,Akmansoy
+876,Pierre,Aknine
+877,John,Akomfrah
+878,Greg,Akopyan
+879,Joseph,Akouissone
+880,Tekin,Akpolat
+881,Jamsheed,Akrami
+882,Ahmed,Aksas
+883,Ivan,Aksenchuk
+884,Faruk,Aksoy
+885,Fatih,Aksoy
+886,Orhan,Aksoy
+887,Vitali,Aksyonov
+888,Irina,Aktasheva
+889,Tetsuo,Akutsu
+890,Taner,Akvardar
+891,Cem,Akyoldas
+892,Ali,"Al Ariss"
+893,Inas,"Al Degheidy"
+895,Hassan,"Al Imam"
+896,Mohamed,"Al Kaliouby"
+897,Khairiya,"Al Mansour"
+898,Mahmoud,"al Massad"
+899,Naguib,"Al Rihani"
+900,Ammar,"Al Sharbaji"
+901,Khalid,"Al Siddiq"
+902,Ahmad,"Al Tukhi"
+904,Attiyat,Al-Abnudi
+905,Samer,Al-Asadi
+906,Kamel,Al-Azzawi
+907,Khalid,Al-Haggar
+908,Omar,Al-Issawi
+909,Muhammad,al-Najjar
+910,Fareed,Al-Oboudi
+911,Haidar,Al-Omar
+912,Omar,Al-Qattan
+913,Omar,Al-Quattan
+914,Waha,Al-Raheb
+915,Naim,Al-Safi
+916,"Abdel Khalak",Al-Samorrani
+917,Hussein,Al-Samorrani
+918,Kamal,Al-Shennawi
+919,Kamil,al-Talmassani
+920,Bassam,Al-Thawadi
+921,Kamal,Al-Wabi
+922,Munir,Al-Yasin
+923,"Muhammad Munir",Al-Yassine
+924,Faisal,Al-Yassiri
+925,Osama,Al-Zain
+926,Sobi,al-Zobaidi
+927,Hisham,al-Zouki
+928,Tunde,Alabi
+929,Züli,Aladag
+930,Jay,Alaimo
+931,Louise,Alaimo
+932,Carolle,Alain
+933,Gina,Alajar
+934,Jari,Alakoskela
+935,Buket,Alakus
+936,Tasos,Alamanos
+937,Lara,Alameddine
+938,Reza,Alamehzadeh
+939,John,Alamo
+940,Mauricio,Alamo
+941,Alex,Alamul
+943,Jordan,Alan
+944,Lee,Alan
+945,P.,Alan
+946,"Antonio T.",Alanis
+947,Mikko,Alanne
+948,Keltoum,Alaoui
+949,Borhane,Alaouié
+950,Federico,Alarcon
+951,Rafael,Alarcón
+952,Sebastián,Alarcón
+953,Philippe,Alard
+954,"Guillermo Jaime",Alarid
+955,James,Alario
+956,Albert,Alarr
+957,Amelia,Alas
+958,Moustapha,Alassane
+959,Zeki,Alasya
+960,Gustavo,Alatriste
+961,"Rodolfo Riva Palacio",Alatriste
+962,"Raja Ahmad",Alauddin
+963,David,Alaux
+964,Myriam,Alaux
+965,Fouad,Alaywan
+966,"José Ángel",Alayón
+967,Benito,Alazraki
+968,Christian,Alba
+969,Federico,Alba
+970,"Juana Macías",Alba
+971,R.D.,Alba
+972,Alfonso,Albacete
+973,"R. Greg",Albach
+974,Angeles,Albadalejo
+975,David,Albahari
+976,Zarul,Albakri
+977,"Luis Miguel",Albaladejo
+978,Antonio,Albanese
+979,Cynthia,Albanese
+980,Giovanni,Albanese
+981,Gabriele,Albanesi
+982,Marcello,Albani
+983,Gianfranco,Albano
+984,João,Albano
+985,Vicente,Albarracín
+986,Tim,Albee
+987,Dominik,Alber
+988,Kevin,Alber
+989,Ghigo,Alberani
+990,Agustín,Alberdi
+991,Claudia,Alberdi
+992,Enrique,Alberich
+993,Ferrán,Alberich
+994,"Salvador de",Alberich
+995,Filoteo,Alberini
+996,Nicolas,Alberny
+997,Carles,Alberola
+998,Simon,Alberry
+999,Frank,Albers
+1000,Karin,Albers
+1001,Allan,Albert
+1002,Antonio,Albert
+1003,Arnold,Albert
+1004,"Arthur (I)",Albert
+1005,Barbara,Albert
+1006,"Didier (I)",Albert
+1007,"Juan (II)",Albert
+1008,Justin,Albert
+1009,Luc,Albert
+1010,Mike,Albert
+1011,Ronnie,Albert
+1012,"Sinte S.",Albert
+1013,Clint,Alberta
+1014,Rene,Alberta
+1015,Anna,Albertano
+1016,Giorgio,Albertazzi
+1017,Manuela,Alberti
+1018,Vivianne,Albertine
+1019,Bitto,Albertini
+1020,Luciano,Albertini
+1021,Albert,Alberts
+1022,"Scott (II)",Alberts
+1023,Willy,Alberts
